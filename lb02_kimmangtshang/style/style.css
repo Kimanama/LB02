@@ -1,0 +1,35 @@
+body{
+    background-color: #FCF7F5;
+}
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fafafa;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .16);
+    width: 500px;
+    height: 700px;
+    text-align: center;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
+}
+h1{
+    margin: 12px 0;
+}
+
+button{
+    padding: 7px 12px;
+    background-color: #DFBBFF;
+    border: none;
+    border-radius: 20px;
+    color: #fafafa;
+    cursor: pointer;
+    margin: 8px;
+
+}
+
+button:hover{
+    background-color: #E6D8CF;
+
+}
+
